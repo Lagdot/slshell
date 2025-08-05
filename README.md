@@ -2,7 +2,9 @@ very simple shell in C and assembly
 
 # Building
 you'll need gcc and the gnu binutils or any c compiler, assembler and linker
+
 these instructions are for gcc and gnu binutils though
+
 I am NOT making a Makefile
 
 ```
