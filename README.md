@@ -1,4 +1,4 @@
-very simple shell in C and assembly
+very simple shell/program executor in C and assembly
 
 # Building
 you'll need gcc and the gnu binutils or any c compiler, assembler and linker
